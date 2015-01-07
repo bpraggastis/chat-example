@@ -1,0 +1,7 @@
+{
+  "name": "bp-chat-example",
+  "description": "Barebones one-way chat app",
+  "repository": "https://github.com/bpraggastis/chat-example.git",
+  "keywords": ["node", "express"]
+
+}
